@@ -31,6 +31,8 @@ Instructions
 6.	Rapport:
 ○	Rédigez un rapport expliquant votre méthodologie, votre métrique de priorisation, et le plan de raccordement proposé.
 ○	Justifiez vos choix et démontrez comment votre plan atteint l'objectif de maximisation des prises raccordées et de minimisation des coûts.
+
+
 Livraison Attendue
 Un rapport détaillé incluant :
 ●	Une description de votre métrique de priorisation.
