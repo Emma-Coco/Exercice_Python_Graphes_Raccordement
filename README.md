@@ -19,7 +19,6 @@ Données Fournies
 Instructions
 
 1.	Analyse Préliminaire:
-   
 ○	Examinez les shapefiles pour comprendre la disposition géographique des bâtiments et des lignes électriques.
 ○	Analysez le fichier CSV pour comprendre la structure de l'arbre linéaire du réseau et les coûts associés à chaque connexion.
 
