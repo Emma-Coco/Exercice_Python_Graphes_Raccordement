@@ -53,6 +53,6 @@ Un rapport détaillé incluant :
 ●	Des cartes issues des shapefiles illustrant le plan de raccordement proposé.
 ●	Un résumé des défis rencontrés et des solutions apportées.
 
-# Ma résolution
+# Ma solution
 [TP - Raccordements.pptx](https://github.com/Emma-Coco/Exercice_Python_Graphes_Raccordement/files/13679667/TP.-.Raccordements.pptx)
 
