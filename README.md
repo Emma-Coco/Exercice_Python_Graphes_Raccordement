@@ -1,10 +1,13 @@
 # L'énnoncé du problème
 
- Cas d'usage: Planification du raccordement électrique de bâtiments
+Cas d'usage: Planification du raccordement électrique de bâtiments
 
 Contexte
+
 Vous avez été fournis avec deux shapefiles et un fichier CSV. Ces fichiers représentent respectivement les bâtiments à raccorder, les lignes électriques à déployer pour le raccordement, et l'arbre linéaire du réseau qui décrit les connexions à mettre en œuvre et les coûts de raccordement.
+
 Objectifs du Cas d'Utilisation
+
 Votre mission est de créer un plan de raccordement qui priorise les bâtiments les plus simples à raccorder (en minimisant les coûts) tout en maximisant le nombre de prises raccordées. Vous devrez prendre en compte la mutualisation des lignes électriques entre plusieurs bâtiments pour optimiser le plan.
 
 Données Fournies
